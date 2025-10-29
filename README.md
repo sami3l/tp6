@@ -10,11 +10,6 @@ Tableau de bord React + Vite + Tailwind pour gérer des étudiants, visualiser d
 - Formulaire d’ajout / édition  
   ![Formulaire étudiant](docs/screenshots/formulaire.png)
 
-
-Astuce:
-- Si vous mettez les fichiers dans `public/screens/`, vous pouvez les référencer comme `/screens/accueil.png`.
-- Exemple d’inclusion: `![Titre](docs/screenshots/mon-ecran.png)`
-
 ## Démarrage rapide
 
 ```sh
