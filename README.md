@@ -84,21 +84,3 @@ Composants principaux:
 API et services:
 - Service étudiants: [src/services/studentApi.js](src/services/studentApi.js)
 
-## Ajouter des captures d’écran
-
-1. Créez le dossier `docs/screenshots/` (ou utilisez `public/screens/`).
-2. Glissez vos images PNG/JPG dedans.
-3. Ajoutez-les dans la section “Captures d’écran” avec:
-   - Chemin relatif si dans `docs/screenshots/`:  
-     `![Titre](docs/screenshots/mon-ecran.png)`
-   - URL publique si dans `public/screens/`:  
-     `![Titre](/screens/mon-ecran.png)`
-
-## Développement
-
-- Lancer le dev server: `npm run dev` puis ouvrir l’URL affichée dans le terminal.
-- Les styles Tailwind sont importés via [src/index.css](src/index.css).
-
-## Licence
-
-Indiquez votre licence ici (MIT, Apache-2.0, etc.).
