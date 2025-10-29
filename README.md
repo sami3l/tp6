@@ -9,14 +9,9 @@ Placez vos images dans `docs/screenshots/` (ou `public/screens/`) puis référen
 - Accueil  
   ![Accueil](docs/screenshots/accueil.png)
 
-- Tableau des étudiants  
-  ![Tableau des étudiants](docs/screenshots/tableau.png)
-
 - Formulaire d’ajout / édition  
   ![Formulaire étudiant](docs/screenshots/formulaire.png)
 
-- Statistiques et répartition par année  
-  ![Statistiques](docs/screenshots/statistiques.png)
 
 Astuce:
 - Si vous mettez les fichiers dans `public/screens/`, vous pouvez les référencer comme `/screens/accueil.png`.
