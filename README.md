@@ -4,8 +4,6 @@ Tableau de bord React + Vite + Tailwind pour gérer des étudiants, visualiser d
 
 ## Captures d’écran
 
-Placez vos images dans `docs/screenshots/` (ou `public/screens/`) puis référencez-les ci-dessous.
-
 - Accueil  
   ![Accueil](docs/screenshots/accueil.png)
 
